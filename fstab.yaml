@@ -1,3 +1,2 @@
 mountpoints:
-  /workspace/data:
-    source: google-drive://1SRSuC0x4kdyonQOSn6w5f3Cn-aLaIIRe
+  /: https://drive.google.com/drive/folders/1SRSuC0x4kdyonQOSn6w5f3Cn-aLaIIRe
